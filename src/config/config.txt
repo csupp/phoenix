@@ -1,0 +1,14 @@
+[log]
+log_path = base_dir/src/reports/logs/
+
+[screenshot]
+screenshot_path = base_dir/src/reports/screenshots/
+
+[report]
+report_path = base_dir/src/reports/allure-report/
+
+[test_case]
+test_case_path = base_dir/src/testcase/
+
+[firefox_driver]
+geckodriver_path = /Users/ricky/Documents/softwares/geckodriver
