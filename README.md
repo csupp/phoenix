@@ -12,19 +12,19 @@
     ├── config
     │   ├── __init__.py
     │   └── config.txt        --------------------- 配置文件， 日志、报告、截图的目录等
-    ├── elements
+    ├── elements               
     │   ├── __init__.py
-    │   └── login_page_element
-    │       ├── __init__.py
-    │       └── login_page_element.py
-    ├── pageobjs
+    │   └── login_page_element      ---------------页面空间元素
+    │       ├── __init__.py
+    │       └── login_page_element.py  ------------登陆页面控件元素
+    ├── pageobjs                    ------------
     │   ├── __init__.py
     │   ├── svc
     │   │   └── __init__.py
     │   └── v7k
     │       ├── __init__.py
-    │       └── loginPage
-    │           ├── __init__.py
+    │       └── loginPage       -------------------登陆页面
+    │           ├── __init__.py
     │           └── login_page.py
     ├── reports                  --------------------- 输出
     │   ├── allure-report        --------------------- allure report
@@ -42,7 +42,7 @@
     │       └── logincases     ------------测试模块1
     │           ├── __init__.py
     │           ├── conftest.py
-    │           └── test_login.py
+    │           └── test_login.py    --------登陆页面测试用例
     ├── testdata               -------------- 测试数据
     │   └── logindata
     │       ├── __init__.py
