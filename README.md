@@ -14,7 +14,7 @@
     │   └── config.txt        --------------------- 配置文件， 日志、报告、截图的目录等
     ├── elements               
     │   ├── __init__.py
-    │   └── login_page_element      ---------------页面空间元素
+    │   └── login_page_element      ---------------页面控件元素
     │       ├── __init__.py
     │       └── login_page_element.py  ------------登陆页面控件元素
     ├── pageobjs                    ------------
