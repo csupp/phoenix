@@ -1,0 +1,3 @@
+('xpath', '//*[@id="dijit_form_ValidationTextBox_0"]')
+('xpath', '//*[@id="dijit_form_ValidationTextBox_1"]')
+('xpath', '//*[@id="dijit_form_Button_0"]')

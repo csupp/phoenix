@@ -8,7 +8,6 @@
 venv/
 .idea/
 __pycache__/
-/src/reports/allure-report/*.txt
-/src/reports/allure-report/*.json
 
 
+geckodriver.log
