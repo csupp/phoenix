@@ -5,6 +5,8 @@
 *.png
 
 .cache/
+allure-report/*.txt
+allure-report/*.json
 .pytest_cache/
 venv/
 .idea/

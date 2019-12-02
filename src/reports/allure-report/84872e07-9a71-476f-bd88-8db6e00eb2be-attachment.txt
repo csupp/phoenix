@@ -1,0 +1,21 @@
+2019-12-02 13:30:50,268 - root - INFO - ==========Run testcases of whole project===========
+2019-12-02 13:30:53,781 - root - INFO - ==========Start to run testcases===========
+2019-12-02 13:30:53,781 - root - INFO - ----------------------------------------------------------------------------------<selenium.webdriver.firefox.webdriver.WebDriver (session="4fb3d1f8-f6a5-8947-85f2-aa34142f21dd")>
+2019-12-02 13:30:54,744 - root - INFO -  Run test_login_success testcase 
+2019-12-02 13:30:54,744 - root - INFO -  run login testcase 
+2019-12-02 13:30:54,744 - root - INFO - GUI login,web element:('xpath', '//*[@id="dijit_form_ValidationTextBox_0"]') value superuser
+2019-12-02 13:30:54,792 - root - INFO - GUI login,waiting element:('xpath', '//*[@id="dijit_form_ValidationTextBox_0"]'):，cost time 0s 
+2019-12-02 13:30:54,792 - root - INFO - GUI login,search web element:('xpath', '//*[@id="dijit_form_ValidationTextBox_0"]')
+2019-12-02 13:30:54,815 - root - INFO - GUI login,waiting element:('xpath', '//*[@id="dijit_form_ValidationTextBox_0"]'):，cost time 0s 
+2019-12-02 13:30:54,850 - root - INFO - GUI login,web element:('xpath', '//*[@id="dijit_form_ValidationTextBox_1"]') value passw0rd
+2019-12-02 13:30:54,869 - root - INFO - GUI login,waiting element:('xpath', '//*[@id="dijit_form_ValidationTextBox_1"]'):，cost time 0s 
+2019-12-02 13:30:54,870 - root - INFO - GUI login,search web element:('xpath', '//*[@id="dijit_form_ValidationTextBox_1"]')
+2019-12-02 13:30:54,888 - root - INFO - GUI login,waiting element:('xpath', '//*[@id="dijit_form_ValidationTextBox_1"]'):，cost time 0s 
+2019-12-02 13:30:54,940 - root - INFO - ,waiting element:('xpath', '//*[@id="dijit_form_Button_0"]'):，cost time 0s 
+2019-12-02 13:30:54,941 - root - INFO - GUI login,click web element:('xpath', '//*[@id="dijit_form_Button_0"]')
+2019-12-02 13:30:54,941 - root - INFO - GUI login,search web element:('xpath', '//*[@id="dijit_form_Button_0"]')
+2019-12-02 13:30:54,965 - root - INFO - GUI login,waiting element:('xpath', '//*[@id="dijit_form_Button_0"]'):，cost time 0s 
+2019-12-02 13:31:02,953 - root - INFO -  Test done test_login_success testcase， result --- PASS 
+2019-12-02 13:31:03,091 - root - INFO - login success-passed take screenshot done，file path: login success-passed
+2019-12-02 13:31:03,094 - root - INFO - ==========Run testcases done===========
+2019-12-02 13:31:04,515 - root - INFO - ==========Finish testcases of the project===========
