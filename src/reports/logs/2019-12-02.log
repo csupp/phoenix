@@ -19,3 +19,24 @@
 2019-12-02 14:04:54,678 - root - INFO - login success-passed take screenshot done，file path: login success-passed
 2019-12-02 14:04:54,680 - root - INFO - ==========Run testcases done===========
 2019-12-02 14:04:57,178 - root - INFO - ==========Finish testcases of the project===========
+2019-12-02 14:13:14,701 - root - INFO - ==========Run testcases of whole project===========
+2019-12-02 14:13:17,085 - root - INFO - ==========Start to run testcases===========
+2019-12-02 14:13:17,086 - root - INFO - ----------------------------------------------------------------------------------<selenium.webdriver.firefox.webdriver.WebDriver (session="9328e33d-d945-b548-99d5-88e0fcdfc594")>
+2019-12-02 14:13:17,984 - root - INFO -  Run test_login_success testcase 
+2019-12-02 14:13:17,985 - root - INFO -  run login testcase 
+2019-12-02 14:13:17,985 - root - INFO - GUI login,web element:('xpath', '//*[@id="dijit_form_ValidationTextBox_0"]') value superuser
+2019-12-02 14:13:18,024 - root - INFO - GUI login,waiting element:('xpath', '//*[@id="dijit_form_ValidationTextBox_0"]'):，cost time 0s 
+2019-12-02 14:13:18,025 - root - INFO - GUI login,search web element:('xpath', '//*[@id="dijit_form_ValidationTextBox_0"]')
+2019-12-02 14:13:18,052 - root - INFO - GUI login,waiting element:('xpath', '//*[@id="dijit_form_ValidationTextBox_0"]'):，cost time 0s 
+2019-12-02 14:13:18,088 - root - INFO - GUI login,web element:('xpath', '//*[@id="dijit_form_ValidationTextBox_1"]') value passw0rd
+2019-12-02 14:13:18,110 - root - INFO - GUI login,waiting element:('xpath', '//*[@id="dijit_form_ValidationTextBox_1"]'):，cost time 0s 
+2019-12-02 14:13:18,110 - root - INFO - GUI login,search web element:('xpath', '//*[@id="dijit_form_ValidationTextBox_1"]')
+2019-12-02 14:13:18,128 - root - INFO - GUI login,waiting element:('xpath', '//*[@id="dijit_form_ValidationTextBox_1"]'):，cost time 0s 
+2019-12-02 14:13:18,182 - root - INFO - ,waiting element:('xpath', '//*[@id="dijit_form_Button_0"]'):，cost time 0s 
+2019-12-02 14:13:18,182 - root - INFO - GUI login,click web element:('xpath', '//*[@id="dijit_form_Button_0"]')
+2019-12-02 14:13:18,183 - root - INFO - GUI login,search web element:('xpath', '//*[@id="dijit_form_Button_0"]')
+2019-12-02 14:13:18,200 - root - INFO - GUI login,waiting element:('xpath', '//*[@id="dijit_form_Button_0"]'):，cost time 0s 
+2019-12-02 14:13:23,430 - root - INFO -  Test done test_login_success testcase， result --- PASS 
+2019-12-02 14:13:23,641 - root - INFO - login success-passed take screenshot done，file path: login success-passed
+2019-12-02 14:13:23,643 - root - INFO - ==========Run testcases done===========
+2019-12-02 14:13:26,086 - root - INFO - ==========Finish testcases of the project===========
