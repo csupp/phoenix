@@ -6,6 +6,4 @@
 .pytest_cache/
 venv/
 .idea/
-allure-report/*.text
-allure-report/*.json
 __pycache__/
