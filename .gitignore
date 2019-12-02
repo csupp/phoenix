@@ -1,6 +1,8 @@
 .DS_Store
 *.pyc
 *.lnk
+*.log
+*.png
 .cache/
 .pytest_cache/
 venv/
@@ -8,7 +10,5 @@ venv/
 __pycache__/
 /src/reports/allure-report/*.txt
 /src/reports/allure-report/*.json
-/src/reports/logs/*.log
-/src/reports/screenshots/*.png
 
-geckodriver.log
+
