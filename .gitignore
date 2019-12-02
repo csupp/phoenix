@@ -1,0 +1,11 @@
+.DS_Store
+*.pyc
+*.lnk
+*.log
+.cache/
+.pytest_cache/
+venv/
+.idea/
+allure-report/*.text
+allure-report/*.json
+__pycache__/
